@@ -1,4 +1,4 @@
-### Semester 5 - Python Project
+### Semester 5 - AI Project
 Reported By : 
   1. Vidisha Agarwal
   2. Bhavya Chaudhary
